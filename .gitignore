@@ -1,0 +1,7 @@
+Debug/
+.vs/
+x64/
+TaskManager/Debug
+TaskManager/Release
+TaskManager/x64
+TaskManager/TaskManager.vcxproj.user
